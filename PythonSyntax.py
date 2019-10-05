@@ -5,3 +5,8 @@ def func1():
     print('Hi')
     return 1
 func2  =  func1()
+
+def func2():
+    """ writing function for fun only """
+
+
